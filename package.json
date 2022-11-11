@@ -34,7 +34,6 @@
   "homepage": "https://github.com/haydenbleasel/medium-feed#readme",
   "devDependencies": {
     "@haydenbleasel/harmony": "^1.0.30",
-    "@types/jsdom": "^20.0.0",
     "@typescript-eslint/eslint-plugin": "^5.38.0",
     "@typescript-eslint/parser": "^5.38.0",
     "eslint": "^8.24.0",
@@ -63,9 +62,8 @@
     "extends": "@haydenbleasel/harmony/stylelint"
   },
   "dependencies": {
-    "canvas": "^2.10.2",
     "cross-fetch": "^3.1.5",
     "fast-xml-parser": "^4.0.11",
-    "jsdom": "^20.0.2"
+    "node-html-parser": "^6.1.1"
   }
 }
