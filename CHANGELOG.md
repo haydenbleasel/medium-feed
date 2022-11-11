@@ -1,3 +1,16 @@
+# v1.0.4 (Fri Nov 11 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/haydenbleasel/medium-feed ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update README.md ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
 # v1.0.3 (Fri Nov 11 2022)
 
 #### ⚠️ Pushed to `main`
