@@ -28,7 +28,3 @@ const feed2 = await getMediumFeed({ username: 'abityastunggal' });
 ## Contributing
 
 If you have suggestions for how this module could be improved, or want to report a bug, open an issue! I'd love all and any contributions.
-
-Heads up, to run this on a Mac you need to install the following deps to enable `canvas` support on JSDOM:
-
-`brew install cairo pango`
